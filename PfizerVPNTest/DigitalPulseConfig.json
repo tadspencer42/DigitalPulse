@@ -1,0 +1,16 @@
+{
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ],
+
+  "version": "1.1.2",
+  "lastUpdated": "4/12/2022",
+  "vpnURL": "anyconnect.pfizer.com",
+  "internalURL": "home.pfizer.com",
+  "nsecURL": "https://ug6ydm8q0h.execute-api.us-east-1.amazonaws.com/Release"
+}

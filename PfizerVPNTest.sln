@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PfizerVPNTest", "PfizerVPNTest\PfizerVPNTest.csproj", "{054ED508-4EEB-415F-911F-D87509C6E3BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nSecTest", "nSecTest\nSecTest.csproj", "{184CE96B-8260-4494-9E50-890C0123D138}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{054ED508-4EEB-415F-911F-D87509C6E3BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{054ED508-4EEB-415F-911F-D87509C6E3BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{054ED508-4EEB-415F-911F-D87509C6E3BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{054ED508-4EEB-415F-911F-D87509C6E3BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{184CE96B-8260-4494-9E50-890C0123D138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{184CE96B-8260-4494-9E50-890C0123D138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{184CE96B-8260-4494-9E50-890C0123D138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{184CE96B-8260-4494-9E50-890C0123D138}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C216648-5B22-43F7-8D7D-563BD44F67B2}
+	EndGlobalSection
+EndGlobal
